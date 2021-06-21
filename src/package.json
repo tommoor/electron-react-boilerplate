@@ -14,5 +14,7 @@
     "postinstall": "yarn electron-rebuild"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "@elasticprojects/abstract-cli": "13.2.0"
+  }
 }
